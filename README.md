@@ -43,7 +43,7 @@ La aplicación permite:
 * Borrar mis notas.
 
 
-![Prototipo]https://github.com/mirellgms/CDMX011-lab-notes/blob/readme/mir-notes/src/img/prototipo.png
+![Prototipo](https://github.com/mirellgms/CDMX011-lab-notes/blob/readme/mir-notes/src/img/prototipo.png)
 ### Definición del producto
 
   
