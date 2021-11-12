@@ -11,7 +11,7 @@
 * [7. Pistas, tips y lecturas complementarias](#7-pistas-tips-y-lecturas-complementarias)
 
 ***
-![MY-DO]()
+![MY-DO](https://github.com/mirellgms/CDMX011-lab-notes/blob/readme/mir-notes/src/img/my-do-completo.png)
 
 ## 1. Preámbulo
 
@@ -42,6 +42,8 @@ La aplicación permite:
 * Editar mis notas.
 * Borrar mis notas.
 
+
+![Prototipo](https://github.com/mirellgms/CDMX011-lab-notes/blob/readme/mir-notes/src/img/prototipo.png)
 ### Definición del producto
 
   
