@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  background-color: #F2F4FB;
+}
+
+.App-find{
+  margin-left: 42%;
+  margin-top: 5%;
+  font-size: 20px;
+  background-color: rgb(148,218,255,36%);
+  width: 410px;
+  height: 45px;
+ 
+}
+.App-body {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.App-input{
+  background-color: #CDF0EA;
+  font-size: 20px;
+  width: 480px;
+  height: 64px;
+  margin-top: 11%;
+  margin-left: 10%;
+  
+}
+.list{
+  display: table-cell;  
+  background-color: #F0D9FF; 
+  width: 226px;
+  height: 488px;
+}
+
+.App-ul{
+  
+}
+
+.App-add{
+  
+  background-color: #F0D9FF;
+  width: 50px;
+  font-size: 25px;
+  height: 50px;
+  margin-left: 3%;
+}
+
+.App-clear{
+  background-color: #F0D9FF;
+  width: 50px;
+  font-size: 25px;
+  height: 50px; 
+  margin-left: 1%;
+}
+
+
+
+.App-text {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  margin-top: 14%;
+  font-weight: bold;
+}
