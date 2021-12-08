@@ -44,9 +44,9 @@ export function App() {
   return (
     <Fragment>
       <div className="App">
-        <button className="App-Logout"onClick={handleClearAll}>Cerrar sesión</button>
+        <button className="App-Logout" onClick={handleClearAll}>Cerrar sesión</button>
         <input className="App-find" type='text' placeholder='🔍 Busca lo que quieras' />
-        <input className="App-input" ref={todoTaskRef} type='textarea' placeholder='Añade una nota...' />
+        <textarea className="App-input" ref={todoTaskRef}  placeholder='Añade una nota...'></textarea>
         <button className="App-add" onClick={handleTodoAdd}>➕</button>
         <button className="App-clear" onClick={handleClearAll}>🗑️</button>
         <Todolist todos={todos} toggleTodo={toggleTodo} />
